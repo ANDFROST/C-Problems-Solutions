@@ -46,7 +46,7 @@ int main(){
 		cout<<b[n];
 	}
 	else if(16<=n<=19){
-		cout<<a[n]
+		cout<<a[n];
 	}
 
 }
